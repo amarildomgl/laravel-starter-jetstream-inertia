@@ -1,7 +1,10 @@
 {
     "name": "iami/iami.ao",
     "authors": [
-        "IAMI SISTEMAS LDA, Amarildo Miguel"
+        {
+            "name": "Amarildo Miguel",
+            "email": "amarildo@iami.ao"
+        }
     ],
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
@@ -25,6 +28,7 @@
         "kamona/kui-laravel-jetstream": "^0.2.0",
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.18",
+        "lucascudo/laravel-pt-br-localization": "^3.0",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^7.0",
         "phpunit/phpunit": "^10.1",
